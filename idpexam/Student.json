@@ -1,0 +1,1 @@
+[{"id":"S001","name":"Nguyen Van Toan","courses":[{"course_name":"Toan","grades":["8.0","7.5","9.0"]},{"course_name":"Ly","grades":["7.0","8.0"]}]},{"id":"S002","name":"Tran Thi Mai","courses":[{"course_name":"Van","grades":["6.0","7.5"]}]},{"id":"S003","name":"Nguyen Hoang Long","courses":["Ly"],"grades":["6.5","7.8"]}]
